@@ -39,7 +39,6 @@ Proyek ini adalah aplikasi web untuk melakukan scraping data dari Instagram meng
     RAPIDAPI_HOST=instagram-scraper-api2.p.rapidapi.com
 
 6. Buat apikey [Disini](https://rapidapi.com/social-api1-instagram/api/instagram-scraper-api2)
-    ```
 
 ## Penggunaan
 
