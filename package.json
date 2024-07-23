@@ -1,0 +1,17 @@
+{
+    "name": "instagram-scraper",
+    "version": "1.0.0",
+    "description": "Aplikasi web untuk scraping informasi dari Instagram menggunakan RapidAPI.",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "axios": "^1.0.0",
+      "dotenv": "^10.0.0",
+      "express": "^4.17.1"
+    },
+    "author": "Nama Anda",   
+    "license": "MIT"
+  }
+  
