@@ -1,6 +1,6 @@
 # Instagram Scraper
 
-Proyek ini adalah aplikasi web untuk melakukan scraping data dari Instagram menggunakan API. Pengguna dapat memasukkan username Instagram dan memilih jenis data yang ingin diambil, seperti informasi akun, followers, following, atau highlights. Hasil scraping akan disimpan dalam format JSON dan dapat diunduh langsung dari web.
+Proyek ini adalah aplikasi web untuk melakukan scraping data dari Instagram menggunakan API. Pengguna dapat memasukkan username Instagram dan memilih jenis data yang ingin diambil, seperti informasi akun, followers, following, highlights, postingan , reels atau stories. Hasil scraping akan disimpan dalam format JSON dan dapat diunduh langsung dari web.
 
 ## Fitur
 
